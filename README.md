@@ -1,2 +1,3 @@
 # sneha-soni
-this is my first git repository.
+This is my first git repository.
+Author - Sneha Soni
